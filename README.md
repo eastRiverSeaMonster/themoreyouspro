@@ -1,4 +1,10 @@
-themoreyouspro
-==============
+HTML5 Muffin chocchip steps
+============================
 
-about coffee
+Run bundle install
+
+	bundle install
+
+Run jekyll
+
+	jekyll
